@@ -1,3 +1,3 @@
 # first-project
 
-look at this in the readme
+added my code from codepen assignment
